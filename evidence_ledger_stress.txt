@@ -1,0 +1,4 @@
+# Testemunhas externas das âncoras do Evidence Ledger em SAIDAS_STRESS/evidence_ledger.
+# Formato: <digest_sha256> seq=<N> gen=<genTime UTC> key=<chave Ed25519>
+# Este arquivo só cresce. Para conferir: evidence-ledger verify <pasta> --witness <arquivo>
+8b5e9fecff63e2ebaf98305557780a40d38c5ff12e706c4d5ab2959ffb0bf787 seq=86 gen=2026-10-23T18:29:17Z key=30f6f9f3a9a3c409
