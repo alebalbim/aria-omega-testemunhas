@@ -2,3 +2,4 @@
 # Formato: <digest_sha256> seq=<N> gen=<genTime UTC> key=<chave Ed25519>
 # Este arquivo só cresce. Para conferir: evidence-ledger verify <pasta> --witness <arquivo>
 8b5e9fecff63e2ebaf98305557780a40d38c5ff12e706c4d5ab2959ffb0bf787 seq=86 gen=2026-10-23T18:29:17Z key=30f6f9f3a9a3c409
+e269fd4902a548255edceaf48fe711107c88c92f873a0016918679670df25208 seq=174 gen=2026-10-24T08:03:07Z key=30f6f9f3a9a3c409
