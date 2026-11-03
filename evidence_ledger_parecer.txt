@@ -3,3 +3,4 @@
 # Este arquivo só cresce. Para conferir: evidence-ledger verify <pasta> --witness <arquivo>
 75a8a88639869e0f8fcd477c8b725a582d619715307ac0d1fb68f758d4d2bde9 seq=1 gen=2026-11-01T15:20:35Z key=30f6f9f3a9a3c409
 6a3aed4cdd3b39ffa1b2051893d099e51e1826abe0fd363eb06d4a9c3ab896b8 seq=5 gen=2026-11-02T18:42:32Z key=30f6f9f3a9a3c409
+79605cfadbc25d50d83dce79c396374644d7c91a11a306d24ac9fa1f61589ed2 seq=9 gen=2026-11-03T18:52:39Z key=30f6f9f3a9a3c409
